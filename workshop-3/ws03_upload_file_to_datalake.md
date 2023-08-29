@@ -31,7 +31,8 @@ gsutil ls gs://[BUCKET]
 # Copy (upload) file to bucket
 gsutil cp [File] gs://[BUCKET]
 
-<a href="https://drive.google.com/uc?export=view&id=1a-3zGRtPQmco6RDbc9TRcGZpcgEEAe1L"><img src="https://drive.google.com/uc?export=view&id=1a-3zGRtPQmco6RDbc9TRcGZpcgEEAe1L" align=left style="width: 890px; max-width: 100%; height: auto " title="Click for the larger version." />
+<a href="https://drive.google.com/uc?export=view&id=1a-3zGRtPQmco6RDbc9TRcGZpcgEEAe1L"><img src="https://drive.google.com/uc?export=view&id=1a-3zGRtPQmco6RDbc9TRcGZpcgEEAe1L" align=left style="width: 1200px; max-width: 100%; height: auto " title="Click for the larger version." />
+
 
 # Remove file or directory 
 **remove file**
