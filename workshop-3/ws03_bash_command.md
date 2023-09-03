@@ -8,7 +8,7 @@ This chapter we are going to learn about basic command line. I decided to use te
 - pwd : print full path. show currect directory where we are at
 - cd : change directory | cd ~ : return to home | cd - : return to previous directory
 
-<a href="https://drive.google.com/uc?export=view&id=1juPag_-Wm7MqkaMlUemq1BJjqdzkEWrS"><img src="https://drive.google.com/uc?export=view&id=1juPag_-Wm7MqkaMlUemq1BJjqdzkEWrS" align=left style="width: 890px; max-width: 100%; height: auto " title="Click for the larger version." />
+![Image](https://drive.google.com/uc?id=1juPag_-Wm7MqkaMlUemq1BJjqdzkEWrS)
 
 # Print / Create file / Read file
 - echo : print word | echo $ : print variable
