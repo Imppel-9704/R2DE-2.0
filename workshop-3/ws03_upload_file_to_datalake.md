@@ -3,7 +3,7 @@
 
 This workshop we are going to learn about uploading file to Google Cloud Storage, using gsutil command. Input file is the .csv file from workshop 2.
 
-Documentation for gsutil : https://cloud.google.com/storage/docs/gsutil
+Documentation for gsutil : https://cloud.google.com/storage/docs/gsutil  
 gsutil fundamental cheatsheet : https://gist.github.com/fonylew/480ab35656572c5341510b59785ac2e8
 
 # Google Cloud Storage
@@ -31,8 +31,7 @@ gsutil ls gs://[BUCKET]
 # Copy (upload) file to bucket
 gsutil cp [File] gs://[BUCKET]
 
-<a href="https://drive.google.com/uc?export=view&id=1a-3zGRtPQmco6RDbc9TRcGZpcgEEAe1L"><img src="https://drive.google.com/uc?export=view&id=1a-3zGRtPQmco6RDbc9TRcGZpcgEEAe1L" align=left style="width: 1200px; max-width: 100%; height: auto " title="Click for the larger version." />
-
+![Image](https://drive.google.com/uc?id=1a-3zGRtPQmco6RDbc9TRcGZpcgEEAe1L)
 
 # Remove file or directory 
 **remove file**
