@@ -1,5 +1,7 @@
 # Road to Data Engineer - Workshop 4
 
+This chapter we are going to learn about building data pipeline, using Google Cloud Composer and Apache Airflow.
+
 ## Data Pipeline Orchestration
 Data Pipeline Orchestration is about keeping data pipeline in order, tracking and monitoring data pipeline from the start to the end of the flow.
 
@@ -29,6 +31,15 @@ Task types in Airflow
 ## Status Task in Airflow
 
 ![Image](https://drive.google.com/uc?id=1pRXt8uZnDTM8UglNW3VXvDqh6Anhyl3z)
+
+## Google Cloud Composer
+Google Cloud Composer is managed Apache Airflow service. The advantages of using Cloud Composer are
+1. Easy to use with services in GCP
+2. Easy to use with third party outside GCP service. e.g. AWS, Azure, Databricks, JIRA, SLACK, Hive, MongoDB, MySQL, and more. . .
+3. High-security
+
+**Cloud Composer architecture**
+![Image](https://drive.google.com/uc?id=1Cl7wZGF6rIm245x3u8_dEJ7KGJX94f0t)
 
 ## Airflow DAG definition file
 1. Importing modules
