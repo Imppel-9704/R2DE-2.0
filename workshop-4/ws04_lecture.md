@@ -1,4 +1,4 @@
-# Road to Data Engineer - Workshop 4
+# Road to Data Engineer - Workshop 4 - Lecture
 
 This chapter we are going to learn about building data pipeline, using Google Cloud Composer and Apache Airflow.
 
