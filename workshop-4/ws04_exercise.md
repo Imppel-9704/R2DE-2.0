@@ -12,10 +12,10 @@
 - Select Disk Size
 ![Image](https://drive.google.com/uc?id=1AOAIVzLHQesbNqo24FUMwlSWoSTkW9Nb)
 
-After creating Airflow. Airflow bucket will be created automatically. It contains **DAGs** and **Data** folders inside.
 
+*After creating Airflow. Airflow bucket will be created automatically. It contains **DAGs** and **Data** folders inside.
 
-3. Go to Apache Airflow
+## Go to Apache Airflow
 For the Apache Airflow site. You'll find this page as following picture.
 To set up connection with Database. Select **Admin** menu on the top then select **Connections**.
 ![Image](https://drive.google.com/uc?id=13gCJRuJLDRfrF7AqK6a-bT0wDwXZ-oYf)
@@ -26,21 +26,23 @@ In this case, I use MySQL. Select **Edit record**
 Name the connection ID. Then insert Host, Schema, Login, Password, and Port
 ![Image](https://drive.google.com/uc?id=118f7gjiK-bPLgutLXBU9s8ZQJ1kgmn9Y)
 
-4. Airflow DAGs
+## Airflow DAGs
 To load DAGs to Airflow from Python source files. I use Cloud Shell Editor to upload .py, edit, and then upload it to **DAGs**, using gsutil command.
 ![Image](https://drive.google.com/uc?id=1XNocl3g-cFrGCXvPLfwL9BsOZxGVm6f5)
 
+upload data, using gsutil command.
 ![Image](https://drive.google.com/uc?id=1Yd2ll7D_Nij9bfZU7aA0X-KGlmNz2BVG)
 
+Uploaded data in DAGs folder
 ![Image](https://drive.google.com/uc?id=1wTpO5o0sU15-LEmskBJQFi7jvL8BOb54)
 
-5. Airflow will automatically sync with DAGs folder on bucket.
+## Airflow will automatically sync with DAGs folder on bucket.
 ![Image](https://drive.google.com/uc?id=1yzWpG6Qg4UiMnHJLy9QRQS-aHuw-dUX_)
 
-6. Run it normally
+## Run it normally
 ![Image](https://drive.google.com/uc?id=1fnTNP_-9sveAVG_Mn40jk9iyCAIrJI0C)
 
-7. Check the result
-From my ws04_exercise4.ipynb. I set it to return output to **Data** folder on Airflow bucket.
+## Check the result
+From my ws04_exercise4.ipynb. I set it to return output to **Data** folder on Airflow bucket. \
 p.s. I changed the Airflow because my previous Airflow have some problem. to create new one I have to change the location.
 ![Image](https://drive.google.com/uc?id=1BsQBY79FEGSFiALZqpLeyGfXSIiLWTqg)
