@@ -42,3 +42,7 @@ In case data is not the answer. so you can write it on your own.
 - sum, minus, multiple, หาร
 - concat word
 - create condition (CASE WHEN)
+
+## Final Output
+
+[looker_studio_final](ws6_exercise.pdf)
