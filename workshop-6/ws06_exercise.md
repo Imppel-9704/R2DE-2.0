@@ -80,4 +80,4 @@ I create slider that can filter the books that have revenue from 1 to 30,000,000
 ![Image](https://drive.google.com/uc?id=1Rbdfqs1Q3n7WzV1D_7L0sGxML7Eqa-1H)
 
 **File**
-[Looker Studio Final Dashboard](ws6_exercise.pdf)
+[Looker Studio Final Dashboard](ws6_dashboard_output.pdf)
