@@ -44,5 +44,11 @@ In case data is not the answer. so you can write it on your own.
 - create condition (CASE WHEN)
 
 ## Final Output
+**Page 1**
+![Image](https://drive.google.com/uc?id=1upiU2Ygq0_WgbYAOFgh9nIYWSpDU8_I2)
 
-[looker_studio_final](ws6_exercise.pdf)
+**Page 2**
+![Image](https://drive.google.com/uc?id=1Rbdfqs1Q3n7WzV1D_7L0sGxML7Eqa-1H)
+
+**File**
+[Looker Studio Final Dashboard](ws6_exercise.pdf)
