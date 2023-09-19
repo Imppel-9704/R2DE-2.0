@@ -71,3 +71,13 @@ I create slider that can filter the books that have revenue from 1 to 30,000,000
 
 **3. Add filter to the table, only show the books that have value Calculated field = 1**
 ![Image](https://drive.google.com/uc?id=1FZ-ZQ-zBaUZYmBPcoGJXDNnAj8zxDvdr)
+
+## Final Output
+**Page 1**
+![Image](https://drive.google.com/uc?id=1upiU2Ygq0_WgbYAOFgh9nIYWSpDU8_I2)
+
+**Page 2**
+![Image](https://drive.google.com/uc?id=1Rbdfqs1Q3n7WzV1D_7L0sGxML7Eqa-1H)
+
+**File**
+[Looker Studio Final Dashboard](ws6_exercise.pdf)
